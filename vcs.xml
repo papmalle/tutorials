@@ -26,8 +26,16 @@
           <option name="url" value="https://github.com/mschwarzmueller/angular-2-beta-boilerplate" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/spring-guides/gs-rest-service/tree/master/complete" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/spring-guides/gs-rest-service" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="D:\Data\Tutorials\Angular" />
+    <option name="cloneParentDir" value="D:\Data\Tutorials\GradleTutos" />
   </component>
 </application>
