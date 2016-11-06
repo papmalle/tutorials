@@ -34,8 +34,12 @@
           <option name="url" value="https://github.com/spring-guides/gs-rest-service" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/angular/angular2-seed" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="D:\Data\Tutorials\GradleTutos" />
+    <option name="cloneParentDir" value="D:\Data\Tutorials\" />
   </component>
 </application>
